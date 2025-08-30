@@ -1,0 +1,8 @@
+# Ignorar pastas
+output
+
+# Ignorar arquivos
+*.class
+*.o
+*.exe
+.gitattributes
